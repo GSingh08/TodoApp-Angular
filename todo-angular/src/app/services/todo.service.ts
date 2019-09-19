@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { Observale } from 'rxjs';
+import { Observable } from 'rxjs';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 
 import { Todo } from '../models/Todo';
